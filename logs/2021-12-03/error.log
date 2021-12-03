@@ -1,0 +1,8 @@
+2021-12-03 16:05:53 - fli-gateway-api/lib.DBConnection:18 - Cannot connect to database: server returned error on SASL authentication step: Authentication failed.
+2021-12-03 16:17:12 - fli-gateway-api/lib.DBConnection:18 - Cannot connect to database: server returned error on SASL authentication step: Authentication failed.
+2021-12-03 16:28:32 - fli-gateway-api/lib.DBConnection:18 - Cannot connect to database: credentials must be provided as user:pass@host
+2021-12-03 17:11:27 - fli-gateway-api/lib.DBConnection:18 - Cannot connect to database: credentials must be provided as user:pass@host
+2021-12-03 17:12:39 - fli-gateway-api/lib.DBConnection:18 - Cannot connect to database: server returned error on SASL authentication step: Authentication failed.
+2021-12-03 17:24:34 - fli-gateway-api/lib.DBConnection:18 - Cannot connect to database: server returned error on SASL authentication step: Authentication failed.
+2021-12-03 18:11:59 - fli-gateway-api/lib.DBConnection:18 - Cannot connect to database: credentials must be provided as user:pass@host
+2021-12-03 18:14:45 - fli-gateway-api/lib.DBConnection:18 - Cannot connect to database: no reachable servers
